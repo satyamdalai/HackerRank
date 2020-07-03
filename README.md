@@ -5,9 +5,9 @@
     Problems solved by me on HackerRank!
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/Problems%20Solved-22-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-41-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java-orange.svg">
-	<img src="https://img.shields.io/badge/Last%20Updated-14/09/2019-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Last%20Updated-03/07/2020-brightgreen.svg">
 </p>
 
 
