@@ -7,18 +7,15 @@
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-41-brightgreen.svg">
 	<img src="https://img.shields.io/badge/Language-Java-orange.svg">
-	<img src="https://img.shields.io/badge/Last%20Updated-03/07/2020-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Last%20Updated-02/10/2020-brightgreen.svg">
 </p>
-
 
 Hey There!
 
 My name is Satyam Dalai and in this repository I solve HackerRank problems using Java. I am currently a student pursuing B.Tech at Siksha 'O' Anusandhan University and have interest in coding. My preferred languages are Java and Python.
 
-
 Hope you find the solutions easy to understand!
-
 
 satyamdalai
 
-03-09-2019
+02-10-2020
