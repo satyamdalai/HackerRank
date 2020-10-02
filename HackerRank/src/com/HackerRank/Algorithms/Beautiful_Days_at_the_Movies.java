@@ -25,6 +25,7 @@ public class Beautiful_Days_at_the_Movies {
 				count++;
 		}
 		System.out.println(count);
+		sc.close();
 	}
 
 }

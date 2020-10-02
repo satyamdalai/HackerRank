@@ -23,6 +23,7 @@ public class DesignerPdfViewer {
 		}
 		
 		System.out.println(max*s.length());
+		sc.close();
 	}
 
 }

@@ -22,6 +22,7 @@ public class HurdleRace
 		if(max>k)
 			doses=max-k;
 		System.out.println(doses);
+		sc.close();
 	}
 	
 	static int arrayMax(int arr[] )

@@ -26,6 +26,7 @@ public class FindDigits
 			System.out.println(count);
 			t--;
 		}
+		sc.close();
 	}
 
 }

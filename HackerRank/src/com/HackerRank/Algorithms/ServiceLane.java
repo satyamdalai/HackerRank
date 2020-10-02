@@ -27,6 +27,7 @@ public class ServiceLane
 			System.out.println(width);
 			t--;
 		}
+		sc.close();
 	}
 	
 	static int width(int i, int j, int arr[])

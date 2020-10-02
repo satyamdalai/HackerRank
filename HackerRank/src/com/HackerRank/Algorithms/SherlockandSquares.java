@@ -17,7 +17,6 @@ public class SherlockandSquares
 		{
 			int a=sc.nextInt();
 			int b=sc.nextInt();
-			int count=0;
 			
 			System.out.println ((int)(Math.floor(Math.sqrt(b)) - Math.ceil(Math.sqrt(a)) + 1));
 			t--;

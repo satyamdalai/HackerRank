@@ -31,6 +31,7 @@ public class UtopianTree {
 			}
 			t--;
 		}
+		sc.close();
 	}
 
 }

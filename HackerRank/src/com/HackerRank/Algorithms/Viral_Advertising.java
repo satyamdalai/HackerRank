@@ -22,6 +22,7 @@ public class Viral_Advertising
 			i++;
 		}
 		System.out.println(cumulative);
+		sc.close();
 	}
 
 }

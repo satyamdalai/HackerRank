@@ -25,6 +25,7 @@ public class Save_the_Prisoner
 		
 		t--;
 	}
+	sc.close();
 	}
 
 }

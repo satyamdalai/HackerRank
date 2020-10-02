@@ -27,6 +27,7 @@ public class CircularArrayRotation
 		for (int x: query) {
 			System.out.println(ar[x]);
 		}
+		sc.close();
 	}
 	static void circularRotate(int a[], int n, int k)
 	{

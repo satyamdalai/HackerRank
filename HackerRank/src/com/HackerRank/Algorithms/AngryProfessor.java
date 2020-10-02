@@ -31,5 +31,6 @@ public class AngryProfessor
 			else
 				System.out.println("YES");
 		}
+		sc.close();
 	}
 }
